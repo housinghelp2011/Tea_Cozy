@@ -63,7 +63,7 @@ body {
     flex-direction: row;
     flex-wrap: wrap;
     width:1000px;
-    height: 600px;
+    height: 495px;
     background-color: black;
     overflow: hidden;
     align-items: center;
@@ -90,6 +90,7 @@ body {
     width: 300px;
     height: 250px;
     padding: 30px;
+    opacity: 1;
 }
 .three-box h3 {
     text-align: center;
