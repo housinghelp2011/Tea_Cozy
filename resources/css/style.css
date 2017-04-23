@@ -1,5 +1,5 @@
 body {
- width: 100%
+ width: 100%;
  margin: 0 auto;
 }
 .main {
@@ -59,25 +59,25 @@ body {
 }
 .container-two {
     display: inline-flex;
-    justify-content: space-around;
+    justify-content: center;
     flex-direction: row;
     flex-wrap: wrap;
     width:1000px;
-    height: 495px;
+    height: 700px;
     background-color: black;
     overflow: hidden;
     align-items: center;
+    margin: 0 auto;
 }
 .box-two {
     width: 300px;
     height: 200px;
-    padding-left: 10px;
-    padding-right: 10px;
+    padding-left: 30px;
 }
 .container-three {
     display: flex;
-    justify-content:space-around;
-    flex-direction: row;
+    justify-content:center;
+    flex-direction: column;
     flex-wrap: wrap;
     width:1200px;
     height: 500px;
